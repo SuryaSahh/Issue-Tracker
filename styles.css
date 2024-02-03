@@ -1,0 +1,42 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: #0A0908;
+}
+.container {
+    margin-top: 20px;
+}
+.jumbotron {
+    background-color: #22333B;
+}
+.well {
+    background-color: #545F62;
+    border: 1px solid #104F55;
+    margin-bottom: 20px;
+}
+.label-info {
+    background-color: #C6AC8F;
+    color: #011B09;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.btn-primary {
+    background-color: #011502;
+    border-color: #011502;
+    color: #fff;
+}
+
+.btn-warning {
+    background-color: #104F55;
+    border-color: #104F55;
+    color: #fff;
+}
+.btn-danger {
+    background-color: #9EC5AB;
+    border-color: #9EC5AB;
+    color: #fff;
+}
